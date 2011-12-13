@@ -1,0 +1,11 @@
+*.aps
+*.suo
+*.sdf
+
+!Debug/RegCfg.txt
+!Release/RegCfg.tx
+
+Debug/
+Release/
+ipch/
+
