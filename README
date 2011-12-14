@@ -12,3 +12,4 @@ HKEY_LOCAL_MACHINE\SOFTWARE\1
 “键”不存在也没有关系，如：
 HKEY_LOCAL_MACHINE\SOFTWARE\2    //程序会跳过，并且给一个某某键不存在的提示
 
+END.
